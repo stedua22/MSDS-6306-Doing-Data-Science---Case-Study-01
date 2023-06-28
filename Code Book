@@ -1,0 +1,36 @@
+This codebook file will provide a breakdown of each of the variables present in the data sets for this project.
+
+The data sets are represented by two separate files: Beers.csv and Breweries.csv
+
+---Beers.csv---
+  This set contains information on 2,410 different beers brewed by breweries in the United States.
+There are 7 variable columns in this set.
+
+1. Name - This is the name of the beer in text form
+
+2. Beer_ID - This is the Unique identifier of the beer in number form.
+
+3. ABV - This value represents the Alcohol By Volume (ABV) of the individual beer in decimal form.
+There are values missing from this column.
+
+4. IBU - This value represents the bitterness of the individual beer in International Bitterness Units (IBU).
+There are values missing from this column.
+
+5. Brewery_ID - This is the Brewery ID associated with the beer in numeric form.
+
+6. Style - This is the style of the beer in text form. 
+  
+7. Ounces - This value represents the volume the beer is served/sold by in ounces.  
+
+
+---Breweries.csv---
+This set contains information on 558 breweries in the United States.
+There are 4 variable columns in this set.
+
+1. Brew_ID - This is the ID value of the brewery which created the beer in numeric form.
+
+2. Name - This is the name of the brewery in text form.
+
+3. City - This is the name of the city in which the brewery is located in text form.
+
+4. State - This is the U.S. State where the brewery is located in text form.
