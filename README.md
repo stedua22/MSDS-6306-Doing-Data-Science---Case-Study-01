@@ -1,7 +1,7 @@
 # MSDS-6306-Doing-Data-Science---Case-Study-01
 
 ## Introduction
-In this project, we will analyze the alcohol contents(ABV) and bitterness(IBU) of craft beers in the breweries of United States.
+In this project, we will analyze the alcohol contents(ABV) and bitterness(IBU) of craft beers in the breweries of United States based on the data that was provided by Budweiser. The purpose of this analysis is to find a conclusion that would be beneficial to the Budwiser enterprise and provide leadership (CEO and CFO of Budweiser) with data driven conclusions. We will perform an EDA and introduce the KNN classification model of beer types using ABV and IBU values and verified with beer samples in the market including Budweiser. 
 
 ## Datasets
 The Beers dataset contains a list of 2410 US craft beers and Breweries dataset contains 558 US breweries. The datasets descriptions are as follows. We will be using R to perform statistical analysis.
@@ -40,3 +40,8 @@ State: U.S. State where the brewery is located
 5. ReadMe.md
 
 ## Conclusion
+
+
+## Authors
+Stephanie Duarte
+Catherine Ticzon
