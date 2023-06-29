@@ -44,4 +44,5 @@ State: U.S. State where the brewery is located
 
 ## Authors
 Stephanie Duarte
+
 Catherine Ticzon
