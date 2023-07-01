@@ -40,7 +40,7 @@ State: U.S. State where the brewery is located
 5. ReadMe.md
 
 ## Conclusion
-
+In our data analysis, we have analyzed the datasets of Brew and Breweries focused on the alcohol contents(ABV) and bitterness(IBU) in the United States. We discovered that Colorado and California are the states with highest numbers of breweries (47 and 39 respectively). We compared two methods, where we eliminated the missing values and replaced the missing data with an average. Which resulted in the minimum ABV to go from 2.7% to 0.1%. Since no other siginificant changes to the data summaries were observed, analysis continued with the removal of missing data. The median ABV was found to be 5.6%. The highest ABV and IBU was 12.8% (Colorado) and 138 (Oregon). Interestingly, we found a strong, positive linear relationship between ABV and IBU. After additional analysis, we can see that IPAs have a higher ABV and IBU than other ales, and by using a KNN algorithim, accuractely predict if its an IPA with 83% accuracyIn our KNN model, we decided to include our N/A using the median. We showed the classification model of beer types using ABV and IBU values and verified with beer samples in the market including Budweiser. We suggested in making IPAs for Budweiser because we use the average IBU and ABV values in our KNN model to predict IPAs. 
 
 ## Authors
 Stephanie Duarte
